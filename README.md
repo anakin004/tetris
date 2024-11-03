@@ -4,5 +4,6 @@
 made this project a while ago, and also dont judge my tetris skills haha
 this was a fun little project I made, a tiny bit of matrix transformations with rotations
 
-https://github.com/user-attachments/assets/3adf0842-d5a4-471f-a347-7b631b9f54c6
+![image](https://github.com/user-attachments/assets/c6204d0b-a0a5-4923-be6d-732478eee6d8)
+
 
