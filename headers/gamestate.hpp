@@ -6,20 +6,15 @@ class GameState{
 
     public:
 
-        GameState(){
-            running = true;
+        GameState() : running(true) {
         }
-
-        void run();
-
-        static void reset();
-
-        bool getState();
-
         ~GameState(){
             free();
         }
 
+        void run();
+        static void reset();
+        bool getState();
         void free();
 
     private:
