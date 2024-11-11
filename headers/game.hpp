@@ -5,7 +5,10 @@
 #include <list>
 
 
-
+// Acts like a singleton, but I liked this syntax more 
+// I wouldn't normally impliment singleton-like structures 
+// however this project is not large-scale so it was easy to be able
+// to access the game logic globally
 
 class GameLogic{
 
